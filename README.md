@@ -1,7 +1,7 @@
 # notes
 
 Mike is having trouble with the mbient labs MetaHub tutorial.  
-tl;dr the problem appears to be with the `bindings` file.  It might be related to [a note](https://github.com/mbientlab/MetaWear-SDK-Cpp/commit/3906944af4e78bd86a8ac5f4ba01a7ca42ce4451) that [scaryghost](https://github.com/scaryghost) referred to in a [commit comment](https://github.com/mbientlab/MetaWear-SDK-Cpp/tree/master/bindings): "Forgot to commit updated JS bindings".  Another problem I have is that when I run  `npm install metawear`, my [RPi freezes].
+tl;dr the problem appears to be with the `bindings` file.  It might be related to [a note](https://github.com/mbientlab/MetaWear-SDK-Cpp/commit/3906944af4e78bd86a8ac5f4ba01a7ca42ce4451) that [scaryghost](https://github.com/scaryghost) referred to in a [commit comment](https://github.com/mbientlab/MetaWear-SDK-Cpp/tree/master/bindings): "Forgot to commit updated JS bindings".  Another problem I have is that when I run  `npm install metawear`, my [RPi freezes](https://github.com/mikimer/notes/blob/master/IMG_1530.JPG).
 
 
 ---
