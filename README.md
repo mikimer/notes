@@ -2,7 +2,7 @@
 
 Mike is having trouble with the mbient labs MetaHub tutorial.
 
-I followed all of the instructions here: https://mbientlab.com/tutorials/MetaHub.html
+I followed the [MetaHub tutorial](https://mbientlab.com/tutorials/MetaHub.html) and cloned the [JavaScript repo](https://github.com/mbientlab/MetaCloud-SDK-JavaScript).
 
 I'm getting a `debug` error (below). You can see the [linux details here](https://github.com/mikimer/notes/blob/master/details.md) and a [photo of my setup](https://github.com/mikimer/notes/blob/master/IMG_1393.JPG).
 
