@@ -1,6 +1,10 @@
 # notes
 
-Mike is having trouble with the mbient labs MetaHub tutorial.
+Mike is having trouble with the mbient labs MetaHub tutorial.  
+tl;dr the problem appears to be with the `bindings` file.  It might be related to [a note](https://github.com/mbientlab/MetaWear-SDK-Cpp/commit/3906944af4e78bd86a8ac5f4ba01a7ca42ce4451) that [scaryghost](https://github.com/scaryghost) forgot to commit this file a few days ago.  
+
+
+---
 
 I followed the [MetaHub tutorial](https://mbientlab.com/tutorials/MetaHub.html) and cloned the [JavaScript repo](https://github.com/mbientlab/MetaCloud-SDK-JavaScript). _The only steps that I skipped was [21.1](https://mbientlab.com/tutorials/MetaHub.html#setup-your-hub) since I used the GUI rather than CLI._ I did everything from [21.4.3](https://mbientlab.com/tutorials/MetaHub.html#build-your-own-hub) through the end. In case it matters, I installed `setup_6.x` and not `setup_8.x`. Now I'm getting a `debug` error (below). You can see the [linux details here](https://github.com/mikimer/notes/blob/master/details.md) and a [photo of my setup](https://github.com/mikimer/notes/blob/master/IMG_1393.JPG).
 
