@@ -31,5 +31,6 @@ I noticed that in the [JavaScript Github README](https://github.com/mbientlab/Me
 -----
 
 It's now 2pm. I'm going to try to use Python instead of JavaScript...
-
+Progress and new problems :)
+https://github.com/mikimer/notes/blob/master/details2.md 
 
