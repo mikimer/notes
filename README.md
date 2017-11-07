@@ -38,7 +38,7 @@ pi@raspi:~/MetaWear-SDK-JavaScript/examples $
 
 ----
 
-It's now 3pm
-I'm going to try to use Python instead of JavaScript...
-I'm getting another error related to `cbindings`
-Details here: https://github.com/mikimer/notes/blob/master/details3.md
+It's now 3pm  
+I'm going to try to use Python instead of JavaScript...  
+I'm getting another error related to `cbindings`  
+Details here: https://github.com/mikimer/notes/blob/master/details3.md  
