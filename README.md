@@ -23,3 +23,13 @@ Error: Cannot find module 'debug'
     at Function.Module._load (module.js:438:3)
 ```
 
+-------
+
+It's now 1.30pm (I emailed Laura at 12noon), I'm still trying to get the MetaHub to work.
+I noticed that in the [JavaScript Github README](https://github.com/mbientlab/MetaWear-SDK-JavaScript) it says to run `npm install metawear`, but when I do that my [RPi freezes](https://github.com/mikimer/notes/blob/master/IMG_1530.JPG) :(
+
+-----
+
+It's now 2pm. I'm going to try to use Python instead of JavaScript...
+
+
