@@ -2,9 +2,7 @@
 
 Mike is having trouble with the mbient labs MetaHub tutorial.
 
-I followed the [MetaHub tutorial](https://mbientlab.com/tutorials/MetaHub.html) and cloned the [JavaScript repo](https://github.com/mbientlab/MetaCloud-SDK-JavaScript). _The only steps that I skipped was [21.1](https://mbientlab.com/tutorials/MetaHub.html#setup-your-hub) since I used the GUI rather than CLI._
-
-I'm getting a `debug` error (below). You can see the [linux details here](https://github.com/mikimer/notes/blob/master/details.md) and a [photo of my setup](https://github.com/mikimer/notes/blob/master/IMG_1393.JPG).
+I followed the [MetaHub tutorial](https://mbientlab.com/tutorials/MetaHub.html) and cloned the [JavaScript repo](https://github.com/mbientlab/MetaCloud-SDK-JavaScript). _The only steps that I skipped was [21.1](https://mbientlab.com/tutorials/MetaHub.html#setup-your-hub) since I used the GUI rather than CLI._ I did everything from [21.4.3](https://mbientlab.com/tutorials/MetaHub.html#build-your-own-hub) through the end. In case it matters, I installed `setup_6.x` and not `setup_8.x`. Now I'm getting a `debug` error (below). You can see the [linux details here](https://github.com/mikimer/notes/blob/master/details.md) and a [photo of my setup](https://github.com/mikimer/notes/blob/master/IMG_1393.JPG).
 
 ```
 pi@raspi:~/MetaWear-SDK-JavaScript/examples $ node led.js 
