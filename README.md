@@ -1,7 +1,7 @@
 # notes
 
 Mike is having trouble with the mbient labs MetaHub tutorial.  
-tl;dr the problem appears to be with the `bindings` file.  It might be related to [a note](https://github.com/mbientlab/MetaWear-SDK-Cpp/commit/3906944af4e78bd86a8ac5f4ba01a7ca42ce4451) that [scaryghost](https://github.com/scaryghost) forgot to commit this file a few days ago.  https://github.com/mbientlab/MetaWear-SDK-Cpp/tree/master/bindings/javascript  
+tl;dr the problem appears to be with the `bindings` file.  It might be related to [a note](https://github.com/mbientlab/MetaWear-SDK-Cpp/commit/3906944af4e78bd86a8ac5f4ba01a7ca42ce4451) that [scaryghost](https://github.com/scaryghost) forgot to commit this file a few days ago.   https://github.com/mbientlab/MetaWear-SDK-Cpp/tree/master/bindings 
 
 
 ---
