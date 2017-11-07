@@ -4,7 +4,7 @@ Mike is having trouble with the mbient labs MetaHub tutorial.
 
 I followed all of the instructions here: https://mbientlab.com/tutorials/MetaHub.html
 
-I'm getting a `debug` error (below). You can see the full details [here](https://github.com/mikimer/notes/blob/master/details.md).
+I'm getting a `debug` error (below). You can see the [linux details here](https://github.com/mikimer/notes/blob/master/details.md) and a [photo of my setup](https://github.com/mikimer/notes/blob/master/IMG_1393.JPG).
 
 ```
 pi@raspi:~/MetaWear-SDK-JavaScript/examples $ node led.js 
