@@ -53,6 +53,8 @@ It's Wednesday and I've followed all of the [MetaHub](https://mbientlab.com/tuto
 
 I'm still getting a memory overflow error with the `file_operations.cpp` file.  I took a [photo when it initially](https://github.com/mikimer/notes/blob/master/IMG_6543.JPG) happened and another [photo 20mins later](https://github.com/mikimer/notes/blob/master/IMG_6658.JPG).   
 
+In case it matters, the tutorial says to use either NodeJS 6 or NodeJS 8. I've only tried using NodeJS 6 since I don't expect that it affects things. 
+
 This second Raspberry Pi is also from CanaKit: https://www.amazon.com/CanaKit-Raspberry-Ultimate-Starter-Kit/dp/B01C6Q4GLE  
 
 
