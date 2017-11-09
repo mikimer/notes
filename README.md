@@ -49,6 +49,9 @@ Details here: https://github.com/mikimer/notes/blob/master/details3.md
 
 -----
 
-It's Wednesday and I've followed all of the [MetaHub](https://mbientlab.com/tutorials/MetaHub.html#build-your-own-hub) tutorial from scratch and a brand new RPi. I'm still getting a memory overflow error with the `file_operations.cpp` file.  I took a [photo when it initially](https://github.com/mikimer/notes/blob/master/IMG_6543.JPG) happened and another [photo 20mins later](https://github.com/mikimer/notes/blob/master/IMG_6658.JPG). 
+It's Wednesday and I've followed all of the [MetaHub](https://mbientlab.com/tutorials/MetaHub.html#build-your-own-hub) tutorial from scratch and a brand new RPi. I'm still getting a memory overflow error with the `file_operations.cpp` file.  I took a [photo when it initially](https://github.com/mikimer/notes/blob/master/IMG_6543.JPG) happened and another [photo 20mins later](https://github.com/mikimer/notes/blob/master/IMG_6658.JPG).   
+
+This second Raspberry Pi is also from CanaKit: https://www.amazon.com/CanaKit-Raspberry-Ultimate-Starter-Kit/dp/B01C6Q4GLE  
+
 
 
