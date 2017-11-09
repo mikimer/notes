@@ -39,6 +39,7 @@ Error: Cannot find module '../MetaWear-SDK-Cpp/bindings/javascript/cbindings'
 pi@raspi:~/MetaWear-SDK-JavaScript/examples $ 
 
 ```
+PS> I don't know much in JS or Node, but it seems like simple issue in bad installation of node or JS. Did you manage running any other script here, not Metawear's?
 
 ----
 
@@ -47,11 +48,17 @@ I'm going to try to use Python instead of JavaScript...
 I'm getting another error related to `cbindings`  
 Details here: https://github.com/mikimer/notes/blob/master/details3.md  
 
+PS> See inside.
+
 -----
 
 It's Wednesday and I've followed all of the [MetaHub](https://mbientlab.com/tutorials/MetaHub.html#build-your-own-hub) tutorial from scratch and a brand new RPi.  This time I installed everything via the CLI, not the GUI. 
 
+PS> You don't need new RPi to reinstall everything. You can just format the SD card... Maybe you can find online complete images of ready RPi 3 installation similar enough to you in order to proceed from their place? You can also have several SD cards in parallel, each one you try debug something else, and switch between them when you want to try something else on the other setup.
+
 I'm still getting a memory overflow error with the `file_operations.cpp` file.  I took a [photo when it initially](https://github.com/mikimer/notes/blob/master/IMG_6543.JPG) happened and another [photo 20mins later](https://github.com/mikimer/notes/blob/master/IMG_6658.JPG).   
+
+PS> Maybe your SD card is too small? Can you try a bigger one?
 
 In case it matters, the tutorial says to use either NodeJS 6 or NodeJS 8. I've only tried using NodeJS 6 since I don't expect that it affects things. 
 
