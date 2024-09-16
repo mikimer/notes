@@ -16,6 +16,9 @@ Traceback (most recent call last):
   File "/home/pi/MetaWear-SDK-Python/mbientlab/metawear/__init__.py", line 5, in <module>
     from .cbindings import *
 ImportError: No module named cbindings
+
+PS> Also I don't know much about Python. Maybe it looks like bad Python installation. Maybe wrong Python version? 2 vs 3
+
 pi@raspi:~/MetaWear-SDK-Python $ 
 pi@raspi:~/MetaWear-SDK-Python $ cd examples/
 pi@raspi:~/MetaWear-SDK-Python/examples $ 
@@ -40,6 +43,9 @@ Traceback (most recent call last):
   File "scan_connect.py", line 2, in <module>
     from mbientlab.metawear import MetaWear
 ImportError: No module named mbientlab.metawear
+
+PS> Looks like bad install indeed...
+
 pi@raspi:~/MetaWear-SDK-Python/examples $ 
 
 ```
